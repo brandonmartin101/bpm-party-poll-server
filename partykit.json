@@ -1,0 +1,8 @@
+{
+	"name": "bpm-party-poll-server",
+	"main": "src/server.ts",
+	"parties": {
+		"poll": "src/server.ts"
+	},
+	"compatibilityDate": "2024-10-29"
+}
